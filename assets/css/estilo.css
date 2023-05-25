@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(28, 22, 35);
+}
+a {
+    color: yellow;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 20px;
+}
+a:hover{
+text-decoration:underline;
+color:rgb(255, 165, 0);
+}
+#item-select {
+    text-decoration: underline;
+}
+p {
+    margin-top: 30px;
+    color:yellow;
+    font-size: 24px;
+}
+h6{
+border:purple 3px solid;
+background-color: rgb(228, 228, 228);
+color:rgb(0, 0, 0);
+margin:auto;
+padding:6px;
+font-size: 25px;
+}
+fieldset{
+border: dotted purple;
+}
+.botoes{
+left:600px;
+}
